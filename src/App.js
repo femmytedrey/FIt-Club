@@ -1,8 +1,9 @@
 import './App.css';
+import { FemiDev } from './components/FemiDev';
 function App() {
   return (
     <div className="App">
-          <span style={{color: 'white'}}>Subscribe Zainkeepscode</span>
+          <FemiDev />
     </div>
   );
 }
